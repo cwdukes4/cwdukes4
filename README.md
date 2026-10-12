@@ -1,7 +1,7 @@
 # Coleman Dukes
 ### Baseball Analytics | Player Development | Advanced Scouting | Research & Development | Machine Learning
 
-I am a senior Financial Management student in Clemson University's Honors College with experience in baseball analytics, player development, scouting, and baseball technology.
+I am a Financial Management student in Clemson University's Honors College with experience in baseball analytics, player development, scouting, and baseball technology.
 
 Through my work with Clemson Baseball Analytics and Trackman, I have gained experience working with baseball data, evaluating pitcher performance, developing scouting reports, and using data to support baseball decision-making. I am particularly interested in the intersection of baseball analytics, player development, and front-office operations.
 
