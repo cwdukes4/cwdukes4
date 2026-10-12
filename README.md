@@ -1,16 +1,18 @@
-## Hi there 👋
+# Coleman Dukes
+### Baseball Analytics | Player Development | Advanced Scouting | Research & Development | Machine Learning
 
-<!--
-**cwdukes4/cwdukes4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a senior Financial Management student in Clemson University's Honors College with experience in baseball analytics, player development, scouting, and baseball technology.
 
-Here are some ideas to get you started:
+Through my work with Clemson Baseball Analytics and Trackman, I have gained experience working with baseball data, evaluating pitcher performance, developing scouting reports, and using data to support baseball decision-making. I am particularly interested in the intersection of baseball analytics, player development, and front-office operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+- Programming: Python, SQL
+- Tools: pandas, Jupyter Notebook, VS Code, matplotlib, Trackman Data
+- Focus Areas: Pitching Analytics, Scouting, Player Development, Machine Learning
+
+### Featured Projects
+Projects involving baseball data analysis, pitching performance, and player development will be added here as they are prepared for publication.
+
+### Contact
+- LinkedIn: [Coleman Dukes](https://www.linkedin.com/in/coleman-dukes/)
+- Email: cwdukes4@gmail.com
